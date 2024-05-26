@@ -1,0 +1,21 @@
+Filename,Random Count,Median Count
+PRO_dihedrals.csv,453,58
+ARG_dihedrals.csv,899,123
+ILE_dihedrals.csv,1352,181
+ASN_dihedrals.csv,1795,249
+CYS_dihedrals.csv,2248,307
+LYS_dihedrals.csv,2694,372
+TYR_dihedrals.csv,3149,428
+GLY_dihedrals.csv,3585,503
+ALA_dihedrals.csv,4038,561
+HIS_dihedrals.csv,4476,634
+LEU_dihedrals.csv,4928,693
+VAL_dihedrals.csv,5383,749
+SER_dihedrals.csv,5825,818
+PHE_dihedrals.csv,6283,871
+GLN_dihedrals.csv,6727,938
+GLU_dihedrals.csv,7181,995
+ASP_dihedrals.csv,7622,1065
+MET_dihedrals.csv,8072,1126
+THR_dihedrals.csv,8526,1183
+TRP_dihedrals.csv,8974,1246

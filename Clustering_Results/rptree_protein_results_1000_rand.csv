@@ -1,0 +1,21 @@
+Filename,Processing Time (min),Quantization Error,MinSize,C
+PRO_dihedrals.csv,0.252,19401.288,10,10
+ARG_dihedrals.csv,0.268,28086.259,10,10
+ILE_dihedrals.csv,0.366,25286.470,10,10
+ASN_dihedrals.csv,0.303,33856.230,10,10
+CYS_dihedrals.csv,0.349,34800.894,10,10
+LYS_dihedrals.csv,0.539,32959.339,10,10
+TYR_dihedrals.csv,0.585,33411.766,10,10
+GLY_dihedrals.csv,0.347,46020.926,10,10
+ALA_dihedrals.csv,0.360,27311.425,10,10
+HIS_dihedrals.csv,0.376,32126.669,10,10
+LEU_dihedrals.csv,0.355,24905.090,10,10
+VAL_dihedrals.csv,0.361,24815.320,10,10
+SER_dihedrals.csv,0.314,33875.411,10,10
+PHE_dihedrals.csv,0.298,30561.079,10,10
+GLN_dihedrals.csv,0.294,27484.297,10,10
+GLU_dihedrals.csv,0.289,27398.289,10,10
+ASP_dihedrals.csv,0.292,35567.040,10,10
+MET_dihedrals.csv,0.287,30062.711,10,10
+THR_dihedrals.csv,0.287,29663.460,10,10
+TRP_dihedrals.csv,0.284,32784.908,10,10
